@@ -2,6 +2,8 @@
 
 `export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch omni_aio_otfp-eng; mka recoveryimage`
 
+`for busybox error : export TW_USE_TOOLBOX=true`
+
 TWRP device tree for Lenovo K3 Note
 ==============
 
