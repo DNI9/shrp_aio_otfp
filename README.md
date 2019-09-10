@@ -1,3 +1,5 @@
+`git clone https://github.com/DNI9/twrp_aio_otfp.git -b sax device/lenovo/aio_otfp`
+
 TWRP device tree for Lenovo K3 Note
 ==============
 
