@@ -1,4 +1,5 @@
 `git clone https://github.com/DNI9/twrp_aio_otfp.git -b sax device/lenovo/aio_otfp`
+
 `export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch omni_aio_otfp-eng; mka bootimage`
 
 TWRP device tree for Lenovo K3 Note
