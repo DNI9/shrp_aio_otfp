@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/lenovo/aio_otfp
+SHRP_PATH := device/lenovo/aio_otfp
 
 # ARCHITECTURE
 TARGET_ARCH := arm64
