@@ -1,7 +1,7 @@
 # !/bin/bash
 
 export SHRP_MAINTAINER="DNI9"
-export SHRP_DEVICE="aio_otfp"
+export SHRP_DEVICE_CODE="aio_otfp"
 export SHRP_EDL_MODE="0"
 export SHRP_EXTERNAL="/external_sd"
 export SHRP_INTERNAL="/sdcard"
