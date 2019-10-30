@@ -4,7 +4,7 @@
 
 `for busybox error : export TW_USE_TOOLBOX=true`
 
-TWRP device tree for Lenovo K3 Note
+TWRP~SHRP device tree for Lenovo K3 Note
 ==============
 
 This branch is for building TWRP 3.x.
