@@ -4,6 +4,8 @@
 
 `for busybox error : export TW_USE_TOOLBOX=true`
 
+`for flex error : export LC_ALL=C`
+
 TWRP~SHRP device tree for Lenovo K3 Note
 ==============
 
