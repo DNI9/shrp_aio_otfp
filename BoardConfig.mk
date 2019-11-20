@@ -36,8 +36,8 @@ SHRP_FONP_2 := /sys/class/leds/torch/brightness
 SHRP_FLASH_MAX_BRIGHTNESS := 16
 # Check your device's recovery path, dont use blindly
 SHRP_REC := /dev/block/platform/mtk-msdc.0/by-name/recovery
-# Put true if your device A/B
-SHRP_AB := false
+# Put this flag if your device is A/B
+#SHRP_AB := false
 
 # ARCHITECTURE
 TARGET_ARCH := arm64
