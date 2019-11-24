@@ -28,12 +28,4 @@ This branch is for building TWRP 3.x.
   - Vibration
   - Brightness
 
-### Other resource:
-  - Kernel: 3.10.105 (PixlernBlitz)
-
-### Credits :
-  - Aryan Kedare
-  - Rohan Taneja
-  - Adam Belamri
-  - Sandeep Sethi
-  - My Brain
+### Credit: EX-K3 Gang
