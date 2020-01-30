@@ -66,3 +66,7 @@ TW_EXCLUDE_SUPERSU := true
 
 # Use custom init.rc
 TARGET_PROVIDES_INIT_RC := true
+
+# for LZMA Compression
+LZMA_RAMDISK_TARGETS := recovery
+LZMA_COMPRESSION := -9
